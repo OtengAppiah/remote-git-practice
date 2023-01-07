@@ -1,0 +1,20 @@
+.col1 {
+ 	background-color: blue;
+ 	color: white;
+}
+.col2 {
+	background-color: maroon;
+	color: white;
+}
+.nested-col-1{
+	background-color: red;
+	color: white;
+}
+.nested-col-2{
+	background-color: gray;
+	color: white;
+}
+#gol {
+	rotate: left;
+	border-image-width: auto;
+}
